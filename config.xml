@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" id="com.bhstudios.delpedregal" version="1.0.0">
   <name>DelPedregal</name>
-  <description>Made with Monaca (http://monaca.mobi)</description>
+  <description>APP DelPedregal</description>
   <author/>
   <content src="/"/>
   <allow-navigation href="*"/>
@@ -66,7 +66,7 @@
         <string>en</string>
       </array>
     </config-file>
-    <preference name="scheme" value="monaca-app"/>
+    <preference name="scheme" value="delpedregal-app"/>
     <preference name="hostname" value="localhost"/>
   </platform>
   <platform name="android">
@@ -90,7 +90,6 @@
   <preference name="WindowsStoreIdentityName" value="3df82bf6-d0a8-7b23-ffcd-e3a85adf740d"/>
   <access origin=""/>
   <preference name="KeepRunning" value="true"/>
-  <preference name="monaca:AndroidIsPackageNameSeparate" value="false"/>
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="Orientation" value="portrait"/>
   <preference name="SplashScreenDelay" value="0"/>

@@ -1,18 +1,15 @@
 {
-    "name": "monaca-template-minimum",
+    "name": "delpedregal app",
     "version": "4.1.4",
     "displayName": "Monaca Template Minimum",
     "engines": {
         "node": ">=18.16"
     },
     "dependencies": {
-        "monaca-plugin-monaca-core": "3.3.1",
         "cordova-plugin-inappbrowser": "6.0.0",
-        "cordova-plugin-splashscreen": "6.0.2",
         "cordova-plugin-vibration": "3.1.1",
         "cordova-custom-config": "5.1.1",
         "cordova-plugin-device": "2.1.0",
-        "monaca-plugin-share": "1.0.1",
         "cordova-plugin-x-socialsharing": "git+https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin.git"
     },
     "scripts": {
@@ -21,13 +18,11 @@
     },
     "cordova": {
         "plugins": {
-            "monaca-plugin-monaca-core": {},
             "cordova-plugin-inappbrowser": {},
             "cordova-plugin-splashscreen": {},
             "cordova-plugin-vibration": {},
             "cordova-custom-config": {},
             "cordova-plugin-device": {},
-            "monaca-plugin-share": {},
             "cordova-plugin-x-socialsharing": {}
         }
     },
