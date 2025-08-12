@@ -1,0 +1,33 @@
+{
+  "name": "Del Pedregal - Family of Wines",
+  "short_name": "Del Pedregal",
+  "description": "Elegant wine catalog application for Del Pedregal premium wines",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a1a1a",
+  "theme_color": "#c4a676",
+  "categories": ["lifestyle", "food"],
+  "lang": "es",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiBmaWxsPSIjMWExYTFhIi8+Cjx0ZXh0IHg9Ijk2IiB5PSI3MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI2Y4ZjhmOCIgZm9udC1mYW1pbHk9IlBsYXlmYWlyIERpc3BsYXksIHNlcmlmIiBmb250LXNpemU9IjE4IiBmb250LXdlaWdodD0iNjAwIj5ERUwgUEVEUkVHQUw8L3RleHQ+Cjx0ZXh0IHg9Ijk2IiB5PSI5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI2M0YTY3NiIgZm9udC1mYW1pbHk9IkludGVyLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEwIiBsZXR0ZXItc3BhY2luZz0iMC4xZW0iPkZBTUlMWSBPRiBXSU5FUzwvdGV4dD4KPHN2ZyB4PSI3NiIgeT0iMTEwIiB3aWR0aD0iNDAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA0MCA2MCIgZmlsbD0ibm9uZSI+CjxwYXRoIGQ9Ik0xMCA1MEgzMFY1NUgxMFY1MFoiIGZpbGw9IiNjNGE2NzYiLz4KPHA+dGggZD0iTTEyIDEwSDE1VjUwSDEyVjEwWiIgZmlsbD0iIzJkNDAyZCIvPgo8cGF0aCBkPSJNMjUgMTBIMjhWNTBIMjVWMTBaIiBmaWxsPSIjMmQ0MDJkIi8+CjxlbGxpcHNlIGN4PSIyMCIgY3k9IjE1IiByeD0iNiIgcnk9IjMiIGZpbGw9IiNjNGE2NzYiLz4KPC9zdmc+Cjwvc3ZnPg==",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiBmaWxsPSIjMWExYTFhIi8+Cjx0ZXh0IHg9IjI1NiIgeT0iMTgwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZjhmOGY4IiBmb250LWZhbWlseT0iUGxheWZhaXIgRGlzcGxheSwgc2VyaWYiIGZvbnQtc2l6ZT0iNDgiIGZvbnQtd2VpZ2h0PSI2MDAiPkRFTCBQRURSRUdBTDwvdGV4dD4KPHR4dCB4PSIyNTYiIHk9IjIyMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI2M0YTY3NiIgZm9udC1mYW1pbHk9IkludGVyLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjI0IiBsZXR0ZXItc3BhY2luZz0iMC4xZW0iPkZBTUlMWSBPRiBXSU5FUzwvdGV4dD4KPHN2ZyB4PSIyMDYiIHk9IjI2MCIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxNTAiIHZpZXdCb3g9IjAgMCAxMDAgMTUwIiBmaWxsPSJub25lIj4KPHA+dGggZD0iTTI1IDEyNUg3NVYxMzVIMjVWMTI1WiIgZmlsbD0iI2M0YTY3NiIvPgo8cGF0aCBkPSJNMzAgMjVIMzhWMTI1SDMwVjI1WiIgZmlsbD0iIzJkNDAyZCIvPgo8cGF0aCBkPSJNNjIgMjVINzBWMTI1SDYyVjI1WiIgZmlsbD0iIzJkNDAyZCIvPgo8ZWxsaXBzZSBjeD0iNTAiIGN5PSI0MCIgcng9IjE1IiByeT0iOCIgZmlsbD0iI2M0YTY3NiIvPgo8L3N2Zz4KPC9zdmc+",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzc1IiBoZWlnaHQ9IjgxMiIgdmlld0JveD0iMCAwIDM3NSA4MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIzNzUiIGhlaWdodD0iODEyIiBmaWxsPSIjMWExYTFhIi8+Cjx0ZXh0IHg9IjE4NyIgeT0iMTAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZjhmOGY4IiBmb250LWZhbWlseT0iUGxheWZhaXIgRGlzcGxheSwgc2VyaWYiIGZvbnQtc2l6ZT0iMjQiIGZvbnQtd2VpZ2h0PSI2MDAiPkRFTCBQRURSRUdBTDwvdGV4dD4KPHA+ZXh0IHg9IjE4NyIgeT0iMTIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjYzRhNjc2IiBmb250LWZhbWlseT0iSW50ZXIsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTAiIGxldHRlci1zcGFjaW5nPSIwLjFlbSI+RkFNSUxZIE9GIFdJTkVTPC90ZXh0Pgo8cmVjdCB4PSI1MCIgeT0iMjAwIiB3aWR0aD0iMjc1IiBoZWlnaHQ9IjE1MCIgZmlsbD0iIzFhMWExYSIgc3Ryb2tlPSIjYzRhNjc2IiBzdHJva2Utd2lkdGg9IjIiLz4KPHA+ZXh0IHg9IjE4NyIgeT0iMjgwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZjhmOGY4IiBmb250LWZhbWlseT0iUGxheWZhaXIgRGlzcGxheSwgc2VyaWYiIGZvbnQtc2l6ZT0iMzYiPkc3PC90ZXh0Pgo8L3N2Zz4=",
+      "sizes": "375x812",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    }
+  ]
+}

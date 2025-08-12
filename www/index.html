@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no" />
+    <meta http-equiv="Content-Security-Policy" content="default-src * gap: file: data: blob: 'unsafe-inline' 'unsafe-eval'; script-src * 'unsafe-inline' 'unsafe-eval'; connect-src * blob:; img-src * blob: data:;">
+    
+    <title>Del Pedregal Wine Catalog</title>
+    
+    <!-- Cordova/PhoneGap -->
+    <script type="text/javascript" charset="utf-8" src="cordova.js"></script>
+    
+    <!-- Application CSS -->
+    <link rel="stylesheet" crossorigin href="assets/index-DE1i13YG.css">
+    
+    <!-- Application Icon -->
+    <link rel="icon" type="image/png" href="assets/logo1_1752097028098-CfsjGCCb.png">
+  </head>
+  <body>
+    <div id="root"></div>
+    
+    <!-- Application JavaScript -->
+    <script type="module" crossorigin src="assets/index-CV83Y7Ty.js"></script>
+    
+    <!-- Cordova/Monaca initialization -->
+    <script type="text/javascript">
+        document.addEventListener('deviceready', function() {
+            console.log('Device is ready');
+            
+            // Handle device-specific functionality here
+            if (window.StatusBar) {
+                StatusBar.styleLightContent();
+            }
+            
+            // Check for Monaca native interface
+            if (window.monaca && window.monaca.nativeInterface) {
+                console.log('Monaca native interface available');
+                
+                // Test Monaca share availability
+                if (window.monaca.nativeInterface.share) {
+                    console.log('Monaca native share available');
+                } else {
+                    console.log('Monaca native share not available');
+                }
+            } else {
+                console.log('Monaca native interface not available');
+            }
+            
+            // Check for Cordova social sharing plugin as fallback
+            if (window.plugins && window.plugins.socialsharing) {
+                console.log('Cordova social sharing plugin available');
+                
+                // Test plugin availability
+                window.plugins.socialsharing.available(function(isAvailable) {
+                    console.log('Cordova social sharing available:', isAvailable);
+                });
+            } else {
+                console.log('Cordova social sharing plugin not available');
+            }
+            
+            console.log('Del Pedregal Wine Catalog - Production ready with dark header logo');
+        }, false);
+    </script>
+  </body>
+</html>
